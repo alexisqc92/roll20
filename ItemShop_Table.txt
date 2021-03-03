@@ -1,0 +1,571 @@
+!import-table --ItemShop --show
+!import-table-item --itemShop --Consumable Items_Spell Scroll Level 0_25 gp_Common_No_Scroll_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Spell Scroll Level 1_35 gp_Common_No_Scroll_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Spell Scroll Level 2_280 gp_Uncommon_No_Scroll_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Spell Scroll Level 3_570 gp_Uncommon_No_Scroll_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Spell Scroll Level 4_2,640 gp_Rare_No_Scroll_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Spell Scroll Level 5_5,280 gp_Rare_No_Scroll_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Spell Scroll Level 6_15,560 gp_Very Rare_No_Scroll_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Spell Scroll Level 7_26,220 gp_Very Rare_No_Scroll_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Spell Scroll Level 8_52,240 gp_Very Rare_No_Scroll_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Spell Scroll Level 9_253,360 gp_Legendary_No_Scroll_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Scroll of Protection_200 gp_Rare_No_Scroll_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Nolzur's Marvelous Pigments_200 gp_Very Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Ammunition +1 (Per)_15 gp_Uncommon_No_Weapon_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Ammunition +2 (Per)_50 gp_Rare_No_Weapon_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Ammunition +3 (Per)_250 gp_Very Rare_No_Weapon_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Keoghtom's Ointment (1 Dose)_150 gp_Uncommon_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Quaal's Feather Token Anchor_50 gp_Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Quaal's Feather Token Fan_120 gp_Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Quaal's Feather Token Whip_100 gp_Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Quaal's Feather Token Bird_1,000 gp_Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Quaal's Feather Token Swan Boat_300 gp_Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Quaal's Feather Token Tree_200 gp_Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Deck of Illusions_900 gp_Uncommon_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Dust of Disappearance_300 gp_Uncommon_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Universal Solvent_300 gp_Legendary_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Dust of Dryness(Per Pinch)_100 gp_Uncommon_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Sovereign Glue_400 gp_Legendary_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Horn of Blasting_450 gp_Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Dust of Sneezing and Choking_400 gp_Uncommon_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Arrow of Slaying_400 gp_Very Rare_No_Weapon_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Bead of Force_1,000 gp_Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Elemental Gem_600 gp_Uncommon_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Necklace of Fireballs (1 bead)_300 gp_Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Necklace of Fireballs (2 beads)_500 gp_Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Necklace of Fireballs (3 beads)_1,000 gp_Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Necklace of Fireballs (4 beads)_1,600 gp_Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Necklace of Fireballs (5 beads)_4,000 gp_Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Necklace of Fireballs (6 beads)_8,000 gp_Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Chime of Opening_400 gp_Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Ioun Stone Absorption_2,400 gp_Very Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Ioun Stone Greater Absorption_30,000 gp_Legendary_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Gem of Brightness_350 gp_Uncommon_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Rod of Absorption_35,000 gp_Very Rare_Si_Rod_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Talisman of Ultimate Evil_62,000 gp_Legendary_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Talisman of Pure Good_72,000 gp_Legendary_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Robe of Useful Items_300 gp_Uncommon_No_Armor_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Manual of Bodily Health_55,000 gp_Very Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Manual of Gainful Exercise_55,000 gp_Very Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Manual of Quickness of Action_55,000 gp_Very Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Manual of Sharpened Mind_55,000 gp_Very Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Manual of Glamour and Prestige_55,000 gp_Very Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Manual of Prudent Foresight_55,000 gp_Very Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Helm of Comprehend Languages_500 gp_Uncommon_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Driftglobe_300 gp_Uncommon_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Trident of Fish Command_400 gp_Uncommon_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Cap of Water Breathing_400 gp_Uncommon_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Eversmoking Bottle_200 gp_Uncommon_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Quiver of Ehlonna_250 gp_Uncommon_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Ioun Stone Sustenance_1,000 gp_Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Necklace of Adaption_800 gp_Uncommon_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Goggles of Night_750 gp_Uncommon_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Horseshoes of the Zephyr_1,500 gp_Very Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Wand of Magic Detection_500 gp_Uncommon_No_Wand_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Wand of Secrets_250 gp_Uncommon_No_Wand_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Gloves of Swimming and Climbing_500 gp_Uncommon_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Heward's Handy Haversack_350 gp_Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Rope of Climbing_350 gp_Uncommon_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Boots of Elvenkind_275 gp_Uncommon_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Eyes of Minute Seeing_150 gp_Uncommon_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Eyes of the Eagle_250 gp_Uncommon_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Dimensional Shackles_1,500 gp_Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Eyes of Charming_900 gp_Uncommon_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Portable Hole_4,000 gp_Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Bag of Holding_500 gp_Uncommon_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Boots of Levitation_2,000 gp_Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Boots of Striding and Springing_400 gp_Uncommon_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Cloak of Arachnida_5,000 gp_Very Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Cloak of Elvenkind_500 gp_Uncommon_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Gloves of Thievery_300 gp_Uncommon_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Hat of Disguise_1,000 gp_Uncommon_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Horseshoes of Speed_500 gp_Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Immovable Rod_200 gp_Uncommon_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Lantern of Revealing_1,000 gp_Uncommon_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Periapt of Health_1,000 gp_Uncommon_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Periapt of Proof Against Poison_1,500 gp_Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Slippers of Spider Climbing_500 gp_Uncommon_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Cloak of the Bat_1,300 gp_Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Cloak of the Manta Ray_800 gp_Uncommon_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Cape of the Mountebank_1,250 gp_Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Talisman of the Sphere_20,000 gp_Legendary_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Apparatus of Kwalish_10,000 gp_Legendary_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Boots of the Winterlands_350 gp_Uncommon_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Folding Boat_5,000 gp_Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Helm of Telepathy_1,000 gp_Uncommon_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Cube of Force_5,000 gp_Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Rod of Rulership_4,500 gp_Rare_Si_Rod_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Mirror of Life Trapping_18,000 gp_Very Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Amulet of Proof Against Detection and Location_1,000 gp_Uncommon_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Medallion of Thoughts_700 gp_Uncommon_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Alchemy Jug_450 gp_Uncommon_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Sending Stones_200 gp_Uncommon_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Cubic Gate_40,000 gp_Legendary_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Crystal Ball_50,000 gp_Very Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Daern's Instant Fortress_5,000 gp_Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Cloak of Invisibility_50,000 gp_Legendary_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Decanter of Endless Water_500 gp_Uncommon_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Amulet of the Planes_90,000 gp_Very Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Gem of Seeing_800 gp_Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Ring of Mind Shielding_2,000 gp_Uncommon_Si_Ring_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Ring of Invisibility_10,000 gp_Legendary_Si_Ring_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Ring of X-Ray Vision_3,000 gp_Rare_Si_Ring_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Ring of Telekinesis_4,800 gp_Very Rare_Si_Ring_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Ring of Three Wishes_150,000 gp_Legendary_Si_Ring_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Ring of Air Elemental Command_35,000 gp_Legendary_No_Ring_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Ring of Earth Elemental Command_31,000 gp_Legendary_Si_Ring_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Ring of Animal Influence_1,350 gp_Rare_No_Ring_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Ring of Swimming_300 gp_Uncommon_No_Ring_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Ring of Jumping_500 gp_Uncommon_Si_Ring_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Ring of Water Walking_450 gp_Uncommon_No_Ring_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Ring of Warmth_350 gp_Uncommon_Si_Ring_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Broom of Flying_2,000 gp_Uncommon_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Wings of Flying_5,000 gp_Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Winged Boots_4,000 gp_Uncommon_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Carpet of Flying 3x5_8,000 gp_Very Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Carpet of Flying 4x6_16,000 gp_Very Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Carpet of Flying 5x7_24,000 gp_Very Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Carpet of Flying 6x9_32,000 gp_Very Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Non Combat Items_Rod of Ressurection_50,000 gp_Legendary_Si_Rod_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Summons / Pets_Ivory Goat (Travail)_400 gp_Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Summons / Pets_Ivory Goat (Traveling)_700 gp_Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Summons / Pets_Ivory Goat (Terror)_3,000 gp_Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Summons / Pets_Goldean Lion_600 gp_Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Summons / Pets_Staff of the Python_200 gp_Uncommon_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Summons / Pets_Onyx Dog_500 gp_Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Summons / Pets_Silver Raven_5,000 gp_Uncommon_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Summons / Pets_Silver Horn of Valhalla_5,600 gp_Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Summons / Pets_Marble Elephant_800 gp_Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Summons / Pets_Bowl of Commanding Water Elementals_8,000 gp_Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Summons / Pets_Brazier of Commanding Fire Elementals_8,000 gp_Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Summons / Pets_Censer of Controlling Air Elementals_8,000 gp_Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Summons / Pets_Stone of Controlling Earth Elementals_8,000 gp_Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Summons / Pets_Brass Horn of Valhalla_8,000 gp_Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Summons / Pets_Bronze Horn of Valhalla_11,000 gp_Very Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Summons / Pets_Iron Horn of Valhalla_14,000 gp_Legendary_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Summons / Pets_Serpentine Owl_8,000 gp_Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Summons / Pets_Bronze Griffon_4,000 gp_Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Summons / Pets_Ebony Fly_6,000 gp_Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Summons / Pets_Obsidian Steed_20,000 gp_Very Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_(+1) Weapon_700 gp_Uncommon_No_Weapon_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_(+2) Weapon_2,000 gp_Rare_No_Weapon_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_(+3) Weapon_8,000 gp_Very Rare_No_Weapon_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_(+1) Armor_1,000 gp_Rare_No_Armor_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_(+2) Armor_5,000 gp_Very Rare_No_Armor_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_(+3) Armor_30,000 gp_Legendary_No_Armor_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_(+1) Shield_500 gp_Uncommon_No_Armor_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_(+2) Shield_2,000 gp_Rare_No_Armor_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_(+3) Shield_20,000 gp_Legendary_No_Armor_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Vicious Weapon_1,000 gp_Rare_No_Weapon_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Sword of Life-Stealing_1,000 gp_Rare_Si_Weapon_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Sword of Sharpness_1,200 gp_Rare_Si_Weapon_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Scimitar of Speed_5,000 gp_Very Rare_Si_Weapon_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Dancing Sword_5,000 gp_Very Rare_Si_Weapon_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Sword of Wounding_2,000 gp_Rare_Si_Weapon_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Flame Tongue_3,000 gp_Rare_Si_Weapon_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Defender_20,000 gp_Legendary_Si_Weapon_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Frost Brand_2,000 gp_Very Rare_Si_Weapon_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Nine Lives Stealer (Fully Charged)_7,000 gp_Very Rare_Si_Weapon_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Sunblade_5,000 gp_Rare_Si_Weapon_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Dwarven Thrower_6,000 gp_Very Rare_Si_Weapon_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Hammer of Thunderbolts_8,000 gp_Legendary_Si_Weapon_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Holy Avenger_90,000 gp_Legendary_Si_Weapon_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Sword of Answering_30,000 gp_Legendary_Si_Weapon_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Efreeti Chain_50,000 gp_Legendary_Si_Armor_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Javelin of Lightning_150 gp_Uncommon_No_Weapon_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Dagger of Venom_800 gp_Rare_No_Weapon_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Vorpal Sword_20,000 gp_Legendary_Si_Weapon_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Weapon of Warning_400 gp_Uncommon_Si_Weapon_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Dragon Slayer_2,000 gp_Rare_Si_Weapon_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Oathbow_4,500 gp_Very Rare_Si_Weapon_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Giant Slayer_1,200 gp_Rare_Si_Weapon_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Mace of Smiting_1,500 gp_Rare_Si_Weapon_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Mace of Disruption_3,000 gp_Rare_Si_Weapon_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Mace of Terror_2,000 gp_Rare_Si_Weapon_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Ioun Stone Protection_1,200 gp_Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Ioun Stone Reserve_1,0500 gp_Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Ioun Stone Agility_3,000 gp_Very Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Ioun Stone Fortitude_3,000 gp_Very Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Ioun Stone Insight_3,000 gp_Very Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Ioun Stone Intellect_3,000 gp_Very Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Ioun Stone Leadership_3,000 gp_Very Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Ioun Stone Strength_3,000 gp_Very Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Ioun Stone Regeneration_5,000 gp_Legendary_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Ioun Stone Awareness_500 gp_Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Ioun Stone Mastery_8,000 gp_Legendary_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Staff of Withering_800 gp_Rare_Si_Staff_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Staff of Thunder and Lightning_4,500 gp_Very Rare_Si_Staff_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Staff of the Adder_200 gp_Uncommon_Si_Staff_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Staff of Striking_10,000 gp_Very Rare_Si_Staff_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Staff of Fire_15,000 gp_Very Rare_Si_Staff_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Staff of Swarming Insects_2,000 gp_Rare_Si_Staff_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Staff of Charming_550 gp_Rare_Si_Staff_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Staff of Healing_3,000 gp_Rare_Si_Staff_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Staff of Frost_20,000 gp_Very Rare_Si_Staff_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Staff of Power_60,500 gp_Very Rare_Si_Staff_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Staff of the Woodlands_2,000 gp_Rare_Si_Staff_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Wand of Enemy Detection_3,000 gp_Rare_No_Wand_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Wand of Magic Missiles_1,500 gp_Uncommon_No_Wand_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Wand of Web_2,000 gp_Uncommon_Si_Wand_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Wand of Binding_4,500 gp_Rare_Si_Wand_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Wand of Fear_2,000 gp_Rare_Si_Wand_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Wand of Paralysis_5,000 gp_Rare_Si_Wand_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Wand of Fireballs_5,000 gp_Rare_Si_Wand_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Wand of Lightning Bolts_3,500 gp_Rare_Si_Wand_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Wand of Polymorph_20,000 gp_Very Rare_Si_Wand_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Wand of the War Mage +1_700 gp_Uncommon_Si_Wand_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Wand of the War Mage +2_2,000 gp_Rare_Si_Wand_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Wand of the War Mage +3_8,000 gp_Very Rare_Si_Wand_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Tentacle Rod_2,0500 gp_Rare_Si_Rod_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Rod of Lordly Might_15,000 gp_Legendary_Si_Rod_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Rod of Alertness_5,000 gp_Very Rare_Si_Rod_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Rod of the Pact Keeper +1_900 gp_Uncommon_Si_Rod_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Rod of the Pact Keeper +2_3,500 gp_Rare_Si_Rod_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Rod of the Pact Keeper +3_11,000 gp_Very Rare_Si_Rod_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Rod of Security_20,000 gp_Very Rare_Si_Rod_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Armor of Resistance_Armor + 500gp_Rare_Si_Armor_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Adamantine Armor_Armor + 500 gp_Uncommon_No_Armor_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Mithral Armor_Armor + 800 gp_Uncommon_No_Armor_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Mariner's Armor_Armor + 200 gp_Uncommon_No_Armor_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Plate Armor of Etherealness_48,000 gp_Legendary_Si_Armor_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Armor of Invulnerability_50,000 gp_Legendary_Si_Armor_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Glamoured Armor_2,000 gp_Rare_No_Armor_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Dragon Scale Mail_4,000 gp_Very Rare_Si_Armor_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Dwarven Plate_6,000 gp_Very Rare_No_Armor_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Elven Chain_2,000 gp_Rare_No_Armor_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Mantle of Spell Resistance_1,000 gp_Rare_No_Armor_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Robe of Stars_6,000 gp_Very Rare_Si_Armor_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Robe of Scintillating Colors_4,000 gp_Very Rare_Si_Armor_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Robe of the Archmagi_50,000 gp_Legendary_Si_Armor_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Robe of Eyes_2,500 gp_Rare_Si_Armor_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Helm of Teleportation_40,000 gp_Rare_Si_Armor_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Animated Shield_4,000 gp_Very Rare_Si_Armor_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Arrow-Catching Shield_3,000 gp_Rare_Si_Armor_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Shield of Missile Attraction_1,000 gp_Rare_Si_Armor_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Sentinel Shield_800 gp_Uncommon_Si_Armor_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Spellguard Shield_15,000 gp_Very Rare_Si_Armor_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Bracers of Archery_500 gp_Uncommon_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Periapt of Wound Closure_900 gp_Uncommon_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Boots of Speed_800 gp_Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Iron Bands of Bilarro_2,000 gp_Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Circlet of Blasting_500 gp_Uncommon_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Pipes of the Sewers_200 gp_Uncommon_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Rope of Entanglement_600 gp_Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Luckstone_500 gp_Uncommon_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Saddle of the Cavalier_150 gp_Uncommon_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Wind Fan_300 gp_Uncommon_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Gloves of Missile Snaring_450 gp_Uncommon_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Cloak of Protection_1,000 gp_Uncommon_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Belt of Dwarvenkind_3,000 gp_Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Belt of Hill Giant Strength_5,000 gp_Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Belt of Stone Giant Strength_10,000 gp_Very Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Belt of Frost Giant Strength_10,000 gp_Very Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Belt of Fire Giant Strength_25,000 gp_Very Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Belt of Cloud Giant Strength_50,000 gp_Legendary_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Belt of Storm Giant Strength_Your Soul_Legendary_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Bracers of Defense_4,000 gp_Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Pearl of Power_500 gp_Uncommon_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Pipes of Haunting_600 gp_Uncommon_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Brooch of Shielding_500 gp_Uncommon_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Amulet of Health_3,000 gp_Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Gauntlets of Ogre Power_1,000 gp_Uncommon_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Headband of Intellect_1,000 gp_Uncommon_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Ring of Resistance_1,000 gp_Rare_Si_Ring_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Ring of Protection_2,000 gp_Rare_Si_Ring_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Ring of Evasion_2,000 gp_Rare_Si_Ring_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Ring of Shooting Stars_8,000 gp_Very Rare_Si_Ring_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Ring of Fire Elemental Command_15,000 gp_Legendary_Si_Ring_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Ring of Free Action_2,000 gp_Rare_Si_Ring_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Ring of Water Elemental Command_20,000 gp_Legendary_Si_Ring_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Ring of Spell Storing_3,000 gp_Rare_Si_Ring_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Ring of Spell Turning_20,000 gp_Legendary_Si_Ring_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Ring of the Ram_1,500 gp_Rare_Si_Ring_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Ring of Feather Falling_800 gp_Rare_Si_Ring_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Ring of Regeneration_10,000 gp_Very Rare_Si_Ring_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Scarab of Protection_30,000 gp_Legendary_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Cloak of Displacement_8,000 gp_Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Prayer Bead - Bless_200 gp_Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Prayer Bead - Smiting_300 gp_Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Prayer Bead - Curing_1,000 gp_Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Prayer Bead - Wind Walking_1,200 gp_Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Prayer Bead - Greater Restoration_2,500 gp_Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Prayer Bead - Summons_5,000 gp_Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Instrument of the Bards - Cli Lyre_2,500 gp_Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Instrument of the Bards - Fochulan Bandlore_1,500 gp_Uncommon_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Instrument of the Bards - Mac-Fuirmidh Cittern_2,000 gp_Uncommon_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Instrument of the Bards - Doss Lute_1,500 gp_Uncommon_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Instrument of the Bards - Canaith Mandolin_2,500 gp_Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Instrument of the Bards - Anstruth Harp_5,000 gp_Very Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Instrument of the Bards - Ollamh Harp_70,000 gp_Legendary_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Luck Blade (Per Charge)_50,000 gp_Legendary_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Helm of Brilliance_15,000 gp_Very Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Amulet of Life Protection_9,000 gp_Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Seal of the Moon_2,500 gp_Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Blink Dagger_20,000 gp_Legendary_Si_Weapon_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Eldritch Tin Whistle_500 gp_Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Zephyr_3,000 gp_Rare_Si_Weapon_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Blade of Swiftness_20,000 gp_Legendary_Si_Weapon_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Felix's Endless Healing Elixir_15,000 gp_Legendary_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Lancers Iron Wall_10,000 gp_Very Rare_Si_Weapon_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Razertail_2,000 gp_Rare_Si_Weapon_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Crown of Gilgamesh_45,000 gp_Legendary_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Visage_3,000 gp_Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Tilicon's Bow_15,000 gp_Very Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Reaper's Bangle_5,000 gp_Rare_Si_Weapon_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Bangle of the Pack Mule_1,000 gp_Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Harness of the Jackal_1,200 gp_Uncommon_Si_Armor_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Xanor's Spellbook_2,000 gp_Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Xanor's Tome_5,000 gp_Very Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Xanor's Grimoire_15,000 gp_Very Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Ring of the Raven_2,000 gp_Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Robes of Instinct_7,000 gp_Very Rare_Si_Armor_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Anticipation_3,000 gp_Rare_Si_Weapon_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Band of Two Minds_10,000 gp_Very Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Hush_4,500 gp_Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Mist_2,000 gp_Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Bulwark_3,000 gp_Rare_Si_Armor_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Weaver's Bow_1,500 gp_Rare_Si_Weapon_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Wraith's Trek_2,500 gp_Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Ring of Self Control_5,000 gp_Very Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Sash of Prolonged Effects_2,000 gp_Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Sash of Extension_2,000 gp_Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Seven-League Boots_10,000 gp_Very Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Kraken Shell_65,000 gp_Legendary_Si_Armor_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Invoker_3,500 gp_Rare_Si_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Combat Items_Augury_2,000 gp_Rare_Si_Weapon_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Shallow Grave Tombstone_5,000 gp_Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Fable_20,000 gp_Very Rare_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Consumable Items_Crimson Letter_50 g_Uncommon_No_Wondrous_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Simple Melee Weapons_Club_1 sp_Common_No_Weapon_1d4 Bludgeon_2_Light_None_None_None_None_None --1 --
+!import-table-item --itemShop --Simple Melee Weapons_Dagger_2 gp_Common_No_Weapon_1d4 Piercing_1_Finesse, Light, Thrown (20/60)_None_None_None_None_None --1 --
+!import-table-item --itemShop --Simple Melee Weapons_Greatclub_2 sp_Common_No_Weapon_1d8 Bludgeon_10_Twohanded_None_None_None_None_None --1 --
+!import-table-item --itemShop --Simple Melee Weapons_Handaxe_5 gp_Common_No_Weapon_1d6 Slashing_2_Light, Thrown (20/60)_None_None_None_None_None --1 --
+!import-table-item --itemShop --Simple Melee Weapons_Javelin_5 sp_Common_No_Weapon_1d6 Piercing_2_Thrown (30/120)_None_None_None_None_None --1 --
+!import-table-item --itemShop --Simple Melee Weapons_Light hammer_2 gp_Common_No_Weapon_1d4 Bludgeon_2_Light, Thrown (20/60)_None_None_None_None_None --1 --
+!import-table-item --itemShop --Simple Melee Weapons_Mace_5 gp_Common_No_Weapon_1d6 Bludgeon_5_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Simple Melee Weapons_Quarterstaff_2 sp_Common_No_Weapon_1d6 Bludgeon_5_Versatile (1d8)_None_None_None_None_None --1 --
+!import-table-item --itemShop --Simple Melee Weapons_Sickle_1 gp_Common_No_Weapon_1d4 Slashing_2_Light_None_None_None_None_None --1 --
+!import-table-item --itemShop --Simple Melee Weapons_Spear_1 gp_Common_No_Weapon_1d6 Piercing_3_Thrown (20/60), Versatile (1d8)_None_None_None_None_None --1 --
+!import-table-item --itemShop --Simple Ranged Weapons_Crossbow, light_25 gp_Common_No_Weapon_1d6 Piercing_5_Ammunition (80/320), Loading, Twohanded_None_None_None_None_None --1 --
+!import-table-item --itemShop --Simple Ranged Weapons_Dart_5 cp_Common_No_Weapon_1d4 Piercing_0.25_Finesse, Thrown (20/60)_None_None_None_None_None --1 --
+!import-table-item --itemShop --Simple Ranged Weapons_Shortbow_25 gp_Common_No_Weapon_1d6 Piercing_2_Ammunition (80/320), Twohanded_None_None_None_None_None --1 --
+!import-table-item --itemShop --Simple Ranged Weapons_Sling_1 sp_Common_No_Weapon_1d4 Bludgeon_0_Ammunition (30/120)_None_None_None_None_None --1 --
+!import-table-item --itemShop --Martial Melee Weapons_Battleaxe_10 gp_Common_No_Weapon_1d8 Slashing_4_Versatile (1d10)_None_None_None_None_None --1 --
+!import-table-item --itemShop --Martial Melee Weapons_Flail_10 gp_Common_No_Weapon_1d8 Bludgeon_2_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Martial Melee Weapons_Glaive_20 gp_Common_No_Weapon_1d10 Slashing_6_Heavy, Reach, Twohanded_None_None_None_None_None --1 --
+!import-table-item --itemShop --Martial Melee Weapons_Greataxe_30 gp_Common_No_Weapon_1d12 Slashing_7_Heavy, Twohanded_None_None_None_None_None --1 --
+!import-table-item --itemShop --Martial Melee Weapons_Greatsword_50 gp_Common_No_Weapon_2d6 Slashing_6_Heavy, Twohanded_None_None_None_None_None --1 --
+!import-table-item --itemShop --Martial Melee Weapons_Halberd_20 gp_Common_No_Weapon_1d10 Slashing_6_Heavy, Reach, Twohanded_None_None_None_None_None --1 --
+!import-table-item --itemShop --Martial Melee Weapons_Lance_10 gp_Common_No_Weapon_1d12 Piercing_6_Reach, Special_None_None_None_None_None --1 --
+!import-table-item --itemShop --Martial Melee Weapons_Longsword_15 gp_Common_No_Weapon_1d8 Slashing_3_Versatile (1d10)_None_None_None_None_None --1 --
+!import-table-item --itemShop --Martial Melee Weapons_Maul_10 gp_Common_No_Weapon_2d6 Bludgeon_10_Heavy, Twohanded_None_None_None_None_None --1 --
+!import-table-item --itemShop --Martial Melee Weapons_Morningstar_15 gp_Common_No_Weapon_1d8 Piercing_4_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Martial Melee Weapons_Pike_5 gp_Common_No_Weapon_1d10 Piercing_18_Heavy, Reach, Twohanded_None_None_None_None_None --1 --
+!import-table-item --itemShop --Martial Melee Weapons_Rapier_25 gp_Common_No_Weapon_1d8 Piercing_2_Finesse_None_None_None_None_None --1 --
+!import-table-item --itemShop --Martial Melee Weapons_Scimitar_25 gp_Common_No_Weapon_1d6 Slashing_3_Finesse, Light_None_None_None_None_None --1 --
+!import-table-item --itemShop --Martial Melee Weapons_Shortsword_10 gp_Common_No_Weapon_1d6 Slashing_2_Finesse, Light_None_None_None_None_None --1 --
+!import-table-item --itemShop --Martial Melee Weapons_Trident_5 gp_Common_No_Weapon_1d6 Piercing_5_Thrown (20/60), Versatile (1d8)_None_None_None_None_None --1 --
+!import-table-item --itemShop --Martial Melee Weapons_War pick_5 gp_Common_No_Weapon_1d8 Piercing_2_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Martial Melee Weapons_Warhammer_15 gp_Common_No_Weapon_1d8 Bludgeon_2_Versatile (1d10)_None_None_None_None_None --1 --
+!import-table-item --itemShop --Martial Melee Weapons_Whip_2 gp_Common_No_Weapon_1d4 Slashing_3_Finesse, Reach_None_None_None_None_None --1 --
+!import-table-item --itemShop --Martial Ranged Weapons_Blowgun_10 gp_Common_No_Weapon_1 Piercing_1_Ammunition (25/100), Loading_None_None_None_None_None --1 --
+!import-table-item --itemShop --Martial Ranged Weapons_Crossbow, hand_75 gp_Common_No_Weapon_1d6 Piercing_3_Ammunition (30/120), Loading, Light_None_None_None_None_None --1 --
+!import-table-item --itemShop --Martial Ranged Weapons_Crossbow, heavy_50 gp_Common_No_Weapon_1d10 Piercing_18_Ammunition (100/400), Loading, Twohanded, Heavy_None_None_None_None_None --1 --
+!import-table-item --itemShop --Martial Ranged Weapons_Longbow_50 gp_Common_No_Weapon_1d8 Piercing_2_Ammunition (150/600), Heavy, Twohanded_None_None_None_None_None --1 --
+!import-table-item --itemShop --Martial Ranged Weapons_Net_1 gp_Common_No_Weapon_0_3_Special, Thrown (5/15)_None_None_None_None_None --1 --
+!import-table-item --itemShop --Light Armor_Padded_5 gp_Common_No_Armor_0_8_None_11 + Dex_None_Disadvantage_None_None --1 --
+!import-table-item --itemShop --Light Armor_Leather_10 gp_Common_No_Armor_0_10_None_11 + Dex_None_None_None_None --1 --
+!import-table-item --itemShop --Light Armor_Studded Leather_45 gp_Common_No_Armor_0_13_None_12 + Dex_None_None_None_None --1 --
+!import-table-item --itemShop --Medium Armor_Hide_10 gp_Common_No_Armor_0_12_None_12 + Dex(max2)_None_None_None_None --1 --
+!import-table-item --itemShop --Medium Armor_Chain Shirt_50 gp_Common_No_Armor_0_20_None_13 + Dex(max2)_None_None_None_None --1 --
+!import-table-item --itemShop --Medium Armor_Scail Mail_50 gp_Common_No_Armor_0_45_None_14 + Dex(max2)_None_Disadvantage_None_None --1 --
+!import-table-item --itemShop --Medium Armor_Breastplate_400 gp_Common_No_Armor_0_20_None_14 + Dex(max2)_None_None_None_None --1 --
+!import-table-item --itemShop --Medium Armor_Half Plate_750 gp_Common_No_Armor_0_40_None_15 + Dex(max2)_None_Disadvantage_None_None --1 --
+!import-table-item --itemShop --Heavy Armor_Ring Mail_30 gp_Common_No_Armor_0_40_None_14_None_Disadvantage_None_None --1 --
+!import-table-item --itemShop --Heavy Armor_Chain Mail_75 gp_Common_No_Armor_0_55_None_16_Strength 13_Disadvantage_None_None --1 --
+!import-table-item --itemShop --Heavy Armor_Splint_200 gp_Common_No_Armor_0_60_None_17_Strength 15_Disadvantage_None_None --1 --
+!import-table-item --itemShop --Heavy Armor_Plate_1500 gp_Common_No_Armor_0_65_None_18_Strength 15_Disadvantage_None_None --1 --
+!import-table-item --itemShop --Shields_Shields_10 gp_Common_No_Armor_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Abacus_2 gp_Common_No_Mundane_0_2_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Acid (vial)_25 gp_Common_No_Mundane_0_1_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Alchemist's Fire (flask)_50 gp_Common_No_Mundane_0_1_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Ammunition_Arrows (20)_1 gp_Common_No_Weapon_0_1_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Ammunition_Blowgun Needle (50)_1 gp_Common_No_Weapon_0_1_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Ammunition_Crossbow Bolts (20)_1 gp_Common_No_Weapon_0_1.5_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Ammunition_Sling Bullets (20)_4 cp_Common_No_Weapon_0_1.5_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Arcane Focus_Crystal_10 gp_Common_No_Mundane_0_1_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Arcane Focus_Orb_20 gp_Common_No_Mundane_0_3_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Arcane Focus_Rod_10 gp_Common_No_Mundane_0_2_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Arcane Focus_Staff_5 gp_Common_No_Mundane_0_4_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Arcane Focus_Wand_10 gp_Common_No_Mundane_0_1_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Backpack_2 gp_Common_No_Mundane_0_5_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Ball Bearings (bag of 1000)_1 gp_Common_No_Mundane_0_2_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Barrel_2 gp_Common_No_Mundane_0_70_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Basket_4 sp_Common_No_Mundane_0_2_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Bedroll_1 gp_Common_No_Mundane_0_7_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Bell_1 gp_Common_No_Mundane_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Blanket_5 sp_Common_No_Mundane_0_3_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Block and Tackle_1 gp_Common_No_Mundane_0_5_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Book_25 gp_Common_No_Mundane_0_5_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Bottle, Glass_2 gp_Common_No_Mundane_0_2_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Bucket_5 cp_Common_No_Mundane_0_2_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Caltrops (bag of 20)_1 gp_Common_No_Mundane_0_2_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Candle_1 cp_Common_No_Mundane_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Case, Crossbow Bolt_1 gp_Common_No_Mundane_0_1_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Case, Map and Scroll_1 gp_Common_No_Mundane_0_1_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Chain (10ft)_5 gp_Common_No_Mundane_0_10_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Chalk (1 piece)_1 cp_Common_No_Mundane_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Chest_5 gp_Common_No_Mundane_0_25_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Climber's kit_25 gp_Common_No_Mundane_0_12_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Clothes, Common_5 sp_Common_No_Mundane_0_3_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Clothes, Costume_5 gp_Common_No_Mundane_0_4_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Clothes, Fine_15 gp_Common_No_Mundane_0_6_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Clothes, Traveler's_2 gp_Common_No_Mundane_0_4_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Component Pouch_25 gp_Common_No_Mundane_0_2_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Crowbar_2 gp_Common_No_Mundane_0_5_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Druidic Focus_Sprig of Mistletoe_1 gp_Common_No_Mundane_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Druidic Focus_Totem_1 gp_Common_No_Mundane_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Druidic Focus_Wooden Staff_5 gp_Common_No_Mundane_0_4_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Druidic Focus_Yew Wand_10 gp_Common_No_Mundane_0_1_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Flask or Tankard_1 gp_Common_No_Mundane_0_4_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Flask or Tankard_2 cp_Common_No_Mundane_0_1_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Grappling Hook_2 gp_Common_No_Mundane_0_4_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Hammer_1 gp_Common_No_Mundane_0_3_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Hammer, Sledge_2 gp_Common_No_Mundane_0_10_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Healer's kit_5 gp_Common_No_Mundane_0_3_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Holy Symbol_Amulet_5 gp_Common_No_Mundane_0_1_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Holy Symbol_Emblem_ 5 gp_Common_No_Mundane_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Holy Symbol_Reliquary_5 gp_Common_No_Mundane_0_2_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Holy water (flask)_25 gp_Common_No_Mundane_0_1_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Hourglass_25 gp_Common_No_Mundane_0_1_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Hunting Trap_5 gp_Common_No_Mundane_0_25_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Ink (1 ounce bottle)_10 gp_Common_No_Mundane_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Ink pen_2 cp_Common_No_Mundane_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Jug or pitcher_2 cp_Common_No_Mundane_0_4_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Ladder (10-foot)_1 sp_Common_No_Mundane_0_25_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Lamp_5 sp_Common_No_Mundane_0_1_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Lantern, Bullseye_10 gp_Common_No_Mundane_0_2_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Lantern, hooded_5 gp_Common_No_Mundane_0_2_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Lock_10 gp_Common_No_Mundane_0_1_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Magnifying glass_100 gp_Common_No_Mundane_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Manacles_2 gp_Common_No_Mundane_0_6_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Mess ki_2 sp_Common_No_Mundane_0_1_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Mirror, steel_5 gp_Common_No_Mundane_0_0.25_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Oil (flask)_1 sp_Common_No_Mundane_0_1_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Paper (one sheet)_2 sp_Common_No_Mundane_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Parchment (one sheet)_1 sp_Common_No_Mundane_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Perfume (vial)_5 gp_Common_No_Mundane_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Pick, miner's_2 gp_Common_No_Mundane_0_10_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Piton_5 cp_Common_No_Mundane_0_0.25_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Poison, basic (vial)_100 gp_Common_No_Mundane_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Pole (10-foot)_5 cp_Common_No_Mundane_0_7_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Pot, iron_2 gp_Common_No_Mundane_0_10_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Potion of healing_50 gp_Common_No_Mundane_0_0.5_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Pouch_5 sp_Common_No_Mundane_0_1_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Quiver_1 gp_Common_No_Mundane_0_1_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Ram, portable_4 gp_Common_No_Mundane_0_35_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Rations (l day)_5 sp_Common_No_Mundane_0_2_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Robes_1 gp_Common_No_Mundane_0_4_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Rope, hempen (50 feet)_1 gp_Common_No_Mundane_0_10_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Rope, silk (50 feet)_10 gp_Common_No_Mundane_0_5_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Sack_1 cp_Common_No_Mundane_0_0.5_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Scale, merchant's_5 gp_Common_No_Mundane_0_3_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Sealing wax_5 sp_Common_No_Mundane_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Shovel_2 gp_Common_No_Mundane_0_5_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Signal whistle_5 cp_Common_No_Mundane_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Signe! ring_5 gp_Common_No_Mundane_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Soap_2 cp_Common_No_Mundane_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Spellbook_50 gp_Common_No_Mundane_0_3_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Spikes, iron (10)_1 gp_Common_No_Mundane_0_5_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Spyglass_1000 gp_Common_No_Mundane_0_1_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Tent, two-person_2 gp_Common_No_Mundane_0_20_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Tinderbox_5 sp_Common_No_Mundane_0_1_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Torch_1 cp_Common_No_Mundane_0_1_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Vial_1 gp_Common_No_Mundane_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Waterskin_2 sp_Common_No_Mundane_0_5_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Adventuring Gear_Whetstone_1 cp_Common_No_Mundane_0_1_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Artisan's Tools_Alchemist's supplies_50 gp_Common_No_Mundane_0_8_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Artisan's Tools_Brewer's supplies_20 gp_Common_No_Mundane_0_9_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Artisan's Tools_Calligrapher's supplies_10 gp_Common_No_Mundane_0_5_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Artisan's Tools_Painter's supplies_10 gp_Common_No_Mundane_0_5_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Artisan's Tools_Cartographer's tools_15 gp_Common_No_Mundane_0_6_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Artisan's Tools_Cobbler's tools_5 gp_Common_No_Mundane_0_5_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Artisan's Tools_Cook's utensils_1 gp_Common_No_Mundane_0_8_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Artisan's Tools_Glassblower's tools_30 gp_Common_No_Mundane_0_5_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Artisan's Tools_Jeweler's tools_25 gp_Common_No_Mundane_0_2_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Artisan's Tools_Leatherworker's tools_5 gp_Common_No_Mundane_0_5_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Artisan's Tools_Mason's tools_10 gp_Common_No_Mundane_0_8_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Artisan's Tools_Carpenter's tools_8 gp_Common_No_Mundane_0_6_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Artisan's Tools_Potter's tools_10 gp_Common_No_Mundane_0_3_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Artisan's Tools_Smith's tools_20 gp_Common_No_Mundane_0_8_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Artisan's Tools_Tinker's tools_50 gp_Common_No_Mundane_0_10_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Artisan's Tools_Weaver's tools_1 gp_Common_No_Mundane_0_5_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Artisan's Tools_Navigator's tools_25 gp_Common_No_Mundane_0_2_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Artisan's Tools_Woodcarver's tools_1 gp_Common_No_Mundane_0_5_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Artisan's Tools_Thieves' tools_25 gp_Common_No_Mundane_0_1_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Artisan's Tools_Poisoner's kit_50 gp_Common_No_Mundane_0_2_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Artisan's Tools_Herbalism kit_5 gp_Common_No_Mundane_0_3_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Artisan's Tools_Disguise kit_25 gp_Common_No_Mundane_0_3_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Artisan's Tools_Forgery kit_15 gp_Common_No_Mundane_0_5_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Gaming Sets_Dice set_1 sp_Common_No_Mundane_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Gaming Sets_Dragonchess set_1 gp_Common_No_Mundane_0_0.5_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Gaming Sets_Playing card set_5 gp_Common_No_Mundane_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Gaming Sets_Three-Dragon Ante set_1 gp_Common_No_Mundane_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Musical instrument_Bagpipe_30 gp_Common_No_Mundane_0_6_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Musical instrument_Drum_6 gp_Common_No_Mundane_0_3_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Musical instrument_Dulcimer_25 gp_Common_No_Mundane_0_10_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Musical instrument_Flute_2 gp_Common_No_Mundane_0_1_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Musical instrument_Lute_35 gp_Common_No_Mundane_0_2_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Musical instrument_Lyre_30 gp_Common_No_Mundane_0_2_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Musical instrument_Horn_3 gp_Common_No_Mundane_0_2_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Musical instrument_Pan Flute_12 gp_Common_No_Mundane_0_2_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Musical instrument_Shawm_2 gp_Common_No_Mundane_0_1_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Musical instrument_Viol_30 gp_Common_No_Mundane_0_1_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Potion_Potion of Healing_50 gp_Common_No_Potion_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Potion_Potion of Greater Healing_150 gp_Uncommon_No_Potion_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Potion_Potion of Superior Healing_450 gp _Rare_No_Potion_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Potion_Potion of Supreme Healing_1,350 gp_Very Rare_No_Potion_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Potion_Elixir of Health_120 gp_Rare_No_Potion_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Potion_Potion of Poison_100 gp_Uncommon_No_Potion_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Potion_Philter of Love_90 gp_Uncommon_No_Potion_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Potion_Potion of Fire Breath_150 gp_Uncommon_No_Potion_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Potion_Potion of Climbing_180 gp_Common_No_Potion_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Potion_Potion of Heroism_180 gp_Rare_No_Potion_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Potion_Potion of Invisibility_180 gp_Very Rare_No_Potion_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Potion_Potion of Mind Reading_180 gp_Rare_No_Potion_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Potion_Potion of Water Breathing_180 gp_Uncommon_No_Potion_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Potion_Potion of Animal Friendship_200 gp_Uncommon_No_Potion_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Potion_Potion of Diminution_270 gp_Rare_No_Potion_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Potion_Potion of Growth_270 gp_Uncommon_No_Potion_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Potion_Potion of Gaseous Form_300 gp_Rare_No_Potion_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Potion_Potion of Resistance_300 gp_Uncommon_No_Potion_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Potion_Potion of Speed_400 gp_Very Rare_No_Potion_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Potion_Potion of Flying_500 gp_Very Rare_No_Potion_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Potion_Potion of Clairvoyance_960 gp_Rare_No_Potion_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Potion_Potion of Vitality_960 gp_Very Rare_No_Potion_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Potion_Potion of Invulnerability_3,840 gp_Very Rare_No_Potion_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Potion_Oil of Etherealness_1,920 gp_Rare_No_Potion_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Potion_Oil of Sharpness_3,200 gp_Very Rare_No_Potion_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Potion_Oil of Slipperiness_480 gp_Uncommon_No_Potion_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Potion_Potion of Longevity_9,000 gp_Very Rare_No_Potion_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Potion_Potion of Hill Giant Strength_400 gp_Uncommon_No_Potion_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Potion_Potion of Frost Giant Strength_750 gp_Rare_No_Potion_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Potion_Potion of Fire Giant Strength_1,300 gp_Rare_No_Potion_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Potion_Potion of Cloud Giant Strength_1,990 gp_Very Rare_No_Potion_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Potion_Potion of Storm Giant Strength_3,000 gp_Legendary_No_Potion_0_0_None_None_None_None_None_None --1 --
+!import-table-item --itemShop --Poison_Assassin's blood_150 gp_Rare_No_Poison_0_0_None_None_None_None_10_Ingested --1 --
+!import-table-item --itemShop --Poison_Truth serum_150 gp_Uncommon_No_Poison_0_0_None_None_None_None_11_Ingested --1 --
+!import-table-item --itemShop --Poison_Carrion crawler mucus_200 gp_Uncommon_No_Poison_0_0_None_None_None_None_13_Contact --1 --
+!import-table-item --itemShop --Poison_Drow poison_200 gp_Uncommon_No_Poison_0_0_None_None_None_None_13_Injury --1 --
+!import-table-item --itemShop --Poison_Serpetn venom_200 gp_Uncommon_No_Poison_0_0_None_None_None_None_11_Injury --1 --
+!import-table-item --itemShop --Poison_Malice_250 gp_Uncommon_No_Poison_0_0_None_None_None_None_15_Inhaled --1 --
+!import-table-item --itemShop --Poison_Pale tincture_250 gp_Uncommon_No_Poison_0_0_None_None_None_None_16_Ingested --1 --
+!import-table-item --itemShop --Poison_Essence of ether_300 gp_Uncommon_No_Poison_0_0_None_None_None_None_15_Inhaled --1 --
+!import-table-item --itemShop --Poison_Oil of taggit_400 gp_Uncommon_No_Poison_0_0_None_None_None_None_13_Contact --1 --
+!import-table-item --itemShop --Poison_Burnt othur fumes_500 gp_Rare_No_Poison_0_0_None_None_None_None_13_Inhaled --1 --
+!import-table-item --itemShop --Poison_Torpor_600 gp_Rare_No_Poison_0_0_None_None_None_None_15_Ingested --1 --
+!import-table-item --itemShop --Poison_Wyvern poison_1,200 gp_Very Rare_No_Poison_0_0_None_None_None_None_15_Injury --1 --
+!import-table-item --itemShop --Poison_Midnight tears_1,500 gp_Very Rare_No_Poison_0_0_None_None_None_None_17_Ingested --1 --
+!import-table-item --itemShop --Poison_Purple worm poison_2,000 gp_Very Rare_No_Poison_0_0_None_None_None_None_19_Injury --1 --
+!import-table-item --itemShop --Poison_Antitoxin_50 gp_Uncommon_No_Poison_0_0_None_None_None_None_None_Ingested --1 --
+!import-table-item --itemShop --Poison_Basic Poison_100 gp_Uncommon_No_Poison_0_0_None_None_None_None_10_Contact --1 --
